@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Rabee Abdelaziz</p>
+<h2 align="left">Hi, I'm Rabee Abdelaziz</h2>
 
 ###
 
